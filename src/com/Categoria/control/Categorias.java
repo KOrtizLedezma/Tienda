@@ -1,5 +1,7 @@
 package com.Categoria.control;
 
+// Linea de Prueba
+
 import com.Categoria.entity.Categoria;
 import com.Excepciones.entity.CategoriaFantasma;
 
